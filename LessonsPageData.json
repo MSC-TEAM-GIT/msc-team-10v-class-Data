@@ -1,0 +1,109 @@
+[
+  {
+    "day": "Понеділок",
+    "lessonsDist": [
+      { "name": "1. Хімія", "emoji": "Chemistry" },
+      { "name": "2. Хімія", "emoji": "Chemistry" },
+      { "name": "3. Мистецтво", "emoji": "Art" },
+      { "name": "4. Фізична культура", "emoji": "PE" },
+      { "name": "5. Географія", "emoji": "Geography" },
+      { "name": "6. Географія", "emoji": "Geography" },
+      { "name": "7. Мистецтво", "emoji": "Art" }
+    ],
+    "lessonsMix": [
+      { "name": "1. Хімія", "emoji": "Chemistry" },
+      { "name": "2. Хімія", "emoji": "Chemistry" },
+      { "name": "3. Мистецтво", "emoji": "Art" },
+      { "name": "4. Перехід", "emoji": "Transition" },
+      { "name": "5. Географія", "emoji": "Geography" },
+      { "name": "6. Географія", "emoji": "Geography" },
+      { "name": "7. Мистецтво", "emoji": "Art" },
+      { "name": "8. Фізична культура", "emoji": "PE" }
+    ]
+  },
+  {
+    "day": "Вівторок",
+    "lessonsDist": [
+      { "name": "1. Українська мова", "emoji": "UaLang" },
+      { "name": "2. Українська література", "emoji": "UaLiterature" },
+      { "name": "3. Фізика", "emoji": "Physics" },
+      { "name": "4. Фізична культура", "emoji": "PE" },
+      { "name": "5. Алгебра", "emoji": "Algebra" },
+      { "name": "6. Англійська мова", "emoji": "EngLang" }
+    ],
+    "lessonsMix": [
+      { "name": "1. Українська мова", "emoji": "UaLang" },
+      { "name": "2. Українська література", "emoji": "UaLiterature" },
+      { "name": "3. Фізика", "emoji": "Physics" },
+      { "name": "4. Перехід", "emoji": "Transition" },
+      { "name": "5. Математика", "emoji": "Algebra" },
+      { "name": "6. Англійська мова", "emoji": "EngLang" },
+      { "name": "7. Українська мова", "emoji": "UaLang" },
+      { "name": "8. Всесвітня історія", "emoji": "WorldHistory" }
+    ]
+  },
+  {
+    "day": "Середа",
+    "lessonsDist": [
+      { "name": "1. Англійська мова", "emoji": "EngLang" },
+      { "name": "2. Громадянська освіта", "emoji": "CE" },
+      { "name": "3. Зарубіжна література", "emoji": "WorldLiterature" },
+      { "name": "4. Історія України", "emoji": "UaHistory" },
+      { "name": "5. Біологія", "emoji": "Biology" },
+      { "name": "6. Українська мова", "emoji": "UaLang" },
+      { "name": "7. Українська мова", "emoji": "UaLang" }
+    ],
+    "lessonsMix": [
+      { "name": "1. Англійська мова", "emoji": "EngLang" },
+      { "name": "2. Громадянська освіта", "emoji": "CE" },
+      { "name": "3. Зарубіжна література", "emoji": "WorldLiterature" },
+      { "name": "4. Перехід", "emoji": "Transition" },
+      { "name": "5. Біологія", "emoji": "Biology" },
+      { "name": "6. Українська мова", "emoji": "UaLang" },
+      { "name": "7. Фізична культура", "emoji": "PE" },
+      { "name": "8. Українська мова", "emoji": "UaLang" }
+    ]
+  },
+  {
+    "day": "Четвер",
+    "lessonsDist": [
+      { "name": "1. Фізична культура", "emoji": "PE" },
+      { "name": "2. Українська література", "emoji": "UaLiterature" },
+      { "name": "3. Геометрія", "emoji": "Geometry" },
+      { "name": "4. Інформатика", "emoji": "IT" },
+      { "name": "5. Всесвітня історія", "emoji": "WorldHistory" },
+      { "name": "6. Алгебра", "emoji": "Algebra" },
+      { "name": "7. Громадянська освіта", "emoji": "CE" }
+    ],
+    "lessonsMix": [
+      { "name": "1. Фізична культура", "emoji": "PE" },
+      { "name": "2. Українська література", "emoji": "UaLiterature" },
+      { "name": "3. -----", "emoji": "Cancel" },
+      { "name": "4. Перехід", "emoji": "Transition" },
+      { "name": "5. Історія України", "emoji": "UaHistory" },
+      { "name": "6. Математика", "emoji": "Algebra" },
+      { "name": "7. Громадянська освіта", "emoji": "CE" },
+      { "name": "8. Інформатика", "emoji": "IT" }
+    ]
+  },
+  {
+    "day": "П'ятниця",
+    "lessonsDist": [
+      { "name": "1. Біологія", "emoji": "Biology" },
+      { "name": "2. Геометрія", "emoji": "Geometry" },
+      { "name": "3. Англійська мова", "emoji": "EngLang" },
+      { "name": "4. Українська мова", "emoji": "UaLang" },
+      { "name": "5. Фізика", "emoji": "Physics" },
+      { "name": "6. Фізика", "emoji": "Physics" }
+    ],
+    "lessonsMix": [
+      { "name": "1. Біологія", "emoji": "Biology" },
+      { "name": "2. Математика", "emoji": "Algebra" },
+      { "name": "3. Англійська мова", "emoji": "EngLang" },
+      { "name": "4. Перехід", "emoji": "Transition" },
+      { "name": "5. Фізика", "emoji": "Physics" },
+      { "name": "6. Фізика", "emoji": "Physics" },
+      { "name": "7. Математика", "emoji": "Algebra" }
+    ]
+  }
+]
