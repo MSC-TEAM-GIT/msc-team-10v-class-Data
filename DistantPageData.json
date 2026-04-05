@@ -7,8 +7,8 @@
       { "name": "Історія України", "type": "СИНХРОННО О 09:10", "emoji": "UaHistory", "time": "09:10" },
       { "name": "Фізика", "type": "СИНХРОННО О 10:15", "emoji": "Physics", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Математика", "type": "ОЧНО О 12:05", "emoji": "Algebra", "time": "12:05" },
-      { "name": "Математика", "type": "ОЧНО О 13:10", "emoji": "Algebra", "time": "13:10" },
+      { "name": "Алгебра", "type": "ОЧНО О 12:05", "emoji": "Algebra", "time": "12:05" },
+      { "name": "Алгебра", "type": "ОЧНО О 13:10", "emoji": "Algebra", "time": "13:10" },
       { "name": "Англійська мова", "type": "ОЧНО О 14:05", "emoji": "EngLang", "time": "14:05" },
       { "name": "Українська література", "type": "ОЧНО О 14:55", "emoji": "UaLiterature", "time": "14:55" }
     ]
@@ -44,7 +44,7 @@
     "day": "Четвер | 9 квітня",
     "lessons": [
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
-      { "name": "Математика", "type": "АСИНХРОННО", "emoji": "Algebra", "time": "08:15" },
+      { "name": "Геометрія", "type": "АСИНХРОННО", "emoji": "Geometry", "time": "08:15" },
       { "name": "Фізика", "type": "СИНХРОННО О 09:10", "emoji": "Physics", "time": "09:10" },
       { "name": "Зарубіжна література", "type": "СИНХРОННО О 10:15", "emoji": "WorldLiterature", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
@@ -70,7 +70,7 @@
       { "name": "Біологія", "type": "АСИНХРОННО", "emoji": "Biology", "time": "09:10" },
       { "name": "Фізика", "type": "СИНХРОННО О 10:15", "emoji": "Physics", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Математика", "type": "ОЧНО О 12:05", "emoji": "Algebra", "time": "12:05" },
+      { "name": "Геометрія", "type": "ОЧНО О 12:05", "emoji": "Geometry", "time": "12:05" },
       { "name": "Історія України", "type": "ОЧНО О 13:10", "emoji": "UaHistory", "time": "13:10" },
       { "name": "Українська мова", "type": "ОЧНО О 14:05", "emoji": "UaLang", "time": "14:05" },
       { "name": "Англійська мова", "type": "ОЧНО О 14:55", "emoji": "EngLang", "time": "14:55" }
