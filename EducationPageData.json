@@ -1,79 +1,74 @@
 [
   {
-    "day": "Понеділок | 20 квітня",
+    "day": "Понеділок | 27 квітня",
     "lessons": [
-      { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
-      { "name": "Правознавство", "type": "СИНХРОННО О 08:15", "emoji": "Law", "time": "08:15" },
-      { "name": "Історія України", "type": "АСИНХРОННО", "emoji": "UaHistory", "time": "09:10" },
-      { "name": "Фізика", "type": "СИНХРОННО О 10:15", "emoji": "Physics", "time": "10:15" },
-      { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Алгебра", "type": "ОЧНО О 12:05", "emoji": "Algebra", "time": "12:05" },
-      { "name": "Алгебра", "type": "ОЧНО О 13:10", "emoji": "Algebra", "time": "13:10" },
-      { "name": "Англійська мова", "type": "ОЧНО О 14:05", "emoji": "EngLang", "time": "14:05" },
-      { "name": "Українська література", "type": "ОЧНО О 14:55", "emoji": "UaLiterature", "time": "14:55" }
+      { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00", "cabinet": "Кл", "teacher": "Гребцова Л.А." },
+      { "name": "Правознавство", "type": "СИНХРОННО О 08:15", "emoji": "Law", "time": "08:15", "cabinet": "305", "teacher": "Чемерис В.І." },
+      { "name": "Історія України", "type": "СИНХРОННО О 09:10", "emoji": "UaHistory", "time": "09:10", "cabinet": "211", "teacher": "Ворошилова Р.В." },
+      { "name": "Фізика", "type": "СИНХРОННО О 10:15", "emoji": "Physics", "time": "10:15", "cabinet": "СзВ", "teacher": "Бабарика І.В." },
+      { "name": "Англійська мова", "type": "АСИНХРОННО", "emoji": "EngLang", "time": "11:10", "cabinet": "215", "teacher": "Тановицька О.А." },
+      { "name": "Алгебра", "type": "СИНХРОННО О 12:05", "emoji": "Algebra", "time": "12:05", "cabinet": "215", "teacher": "Тановицька О.А." },
+      { "name": "Алгебра", "type": "АСИНХРОННО", "emoji": "Algebra", "time": "13:10", "cabinet": "215", "teacher": "Тановицька О.А." },
+      { "name": "Англійська мова", "type": "СИНХРОННО О 14:05", "emoji": "EngLang", "time": "14:05", "cabinet": "215", "teacher": "Тановицька О.А." }
     ]
   },
   {
-    "day": "Вівторок | 21 квітня",
+    "day": "Вівторок | 28 квітня",
     "lessons": [
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
-      { "name": "Громадянська освіта", "type": "АСИНХРОННО", "emoji": "CE", "time": "08:15" },
-      { "name": "Всесвітня історія", "type": "АСИНХРОННО", "emoji": "WorldHistory", "time": "09:10" },
-      { "name": "Фізична культура", "type": "СИНХРОННО О 10:15", "emoji": "PE", "time": "10:15" },
-      { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Біологія", "type": "ОЧНО О 12:05", "emoji": "Biology", "time": "12:05" },
-      { "name": "Громадянська освіта", "type": "ОЧНО О 13:10", "emoji": "CE", "time": "13:10" },
-      { "name": "Історія України", "type": "ОЧНО О 14:05", "emoji": "UaHistory", "time": "14:05" },
-      { "name": "Географія", "type": "ОЧНО О 14:55", "emoji": "Geography", "time": "14:55" }
+      { "name": "Громадянська освіта", "type": "СИНХРОННО О 08:15", "emoji": "CE", "time": "08:15", "cabinet": "305", "teacher": "Чемерис В.І." },
+      { "name": "Всесвітня історія", "type": "СИНХРОННО О 09:10", "emoji": "WorldHistory", "time": "09:10", "cabinet": "305", "teacher": "—" },
+      { "name": "Фізична культура", "type": "СИНХРОННО О 10:15", "emoji": "PE", "time": "10:15", "cabinet": "305", "teacher": "Чемерис В.І." },
+      { "name": "Українська література", "type": "АСИНХРОННО", "emoji": "UaLiterature", "time": "11:10", "cabinet": "211", "teacher": "Ворошилова Р.В." },
+      { "name": "Біологія", "type": "СИНХРОННО О 12:05", "emoji": "Biology", "time": "12:05", "cabinet": "Лаб", "teacher": "—" },
+      { "name": "Громадянська освіта", "type": "СИНХРОННО О 13:10", "emoji": "CE", "time": "13:10", "cabinet": "305", "teacher": "Чемерис В.І." }
     ]
   },
   {
-    "day": "Середа | 22 квітня",
+    "day": "Середа | 29 квітня",
     "lessons": [
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
       { "name": "Мистецтво", "type": "АСИНХРОННО", "emoji": "Art", "time": "08:15" },
-      { "name": "Фізична культура", "type": "АСИНХРОННО", "emoji": "PE", "time": "09:10" },
+      { "name": "Мистецтво", "type": "СИНХРОННО О 09:10", "emoji": "Art", "time": "09:10" },
       { "name": "Географія", "type": "СИНХРОННО О 10:15", "emoji": "Geography", "time": "10:15" },
-      { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Хімія", "type": "ОЧНО О 12:05", "emoji": "Chemistry", "time": "12:05" },
-      { "name": "Хімія", "type": "ОЧНО О 13:10", "emoji": "Chemistry", "time": "13:10" },
-      { "name": "Мистецтво", "type": "ОЧНО О 14:05", "emoji": "Art", "time": "14:05" }
+      { "name": "Географія", "type": "АСИНХРОННО", "emoji": "Geography", "time": "11:10" },
+      { "name": "Хімія", "type": "СИНХРОННО О 12:05", "emoji": "Chemistry", "time": "12:05" },
+      { "name": "Хімія", "type": "СИНХРОННО О 13:10", "emoji": "Chemistry", "time": "13:10" },
+      { "name": "Фізична культура", "type": "АСИНХРОННО", "emoji": "PE", "time": "14:05" }
     ]
   },
   {
-    "day": "Четвер | 23 квітня",
+    "day": "Четвер | 30 квітня",
     "lessons": [
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
-      { "name": "Геометрія", "type": "АСИНХРОННО", "emoji": "Geometry", "time": "08:15" },
+      { "name": "Геометрія", "type": "СИНХРОННО О 08:15", "emoji": "Geometry", "time": "08:15" },
       { "name": "Фізика", "type": "СИНХРОННО О 09:10", "emoji": "Physics", "time": "09:10" },
       { "name": "Зарубіжна література", "type": "СИНХРОННО О 10:15", "emoji": "WorldLiterature", "time": "10:15" },
-      { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
+      { "name": "Історія України", "type": "СИНХРОННО О 11:10", "emoji": "UaHistory", "time": "11:10" },
       {
         "name": "Інформатика",
         "emoji": "IT",
         "time": "12:05",
         "groups": [
-          { "name": "Інформатика (1 група)", "type": "ОЧНО О 12:05", "emoji": "IT" },
-          { "name": "Інформатика (2 група)", "type": "ОЧНО О 12:05", "emoji": "IT" }
+          { "name": "Інформатика (1 група)", "type": "СИНХРОННО О 12:05", "emoji": "IT" },
+          { "name": "Інформатика (2 група)", "type": "АСИНХРОННО", "emoji": "IT" }
         ]
       },
-      { "name": "Українська мова", "type": "ОЧНО О 13:10", "emoji": "UaLang", "time": "13:10" },
-      { "name": "Українська література", "type": "ОЧНО О 14:05", "emoji": "UaLiterature", "time": "14:05" },
-      { "name": "Фізична культура", "type": "ОЧНО О 14:55", "emoji": "PE", "time": "14:55" }
+      { "name": "Українська мова", "type": "АСИНХРОННО", "emoji": "UaLang", "time": "13:10" },
+      { "name": "Українська література", "type": "СИНХРОННО О 14:05", "emoji": "UaLiterature", "time": "14:05" }
     ]
   },
   {
-    "day": "П'ятниця | 24 квітня",
+    "day": "П'ятниця | 1 травня",
     "lessons": [
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
-      { "name": "Правознавство", "type": "СИНХРОННО О 08:15", "emoji": "Law", "time": "08:15" },
+      { "name": "Правознавство", "type": "АСИНХРОННО", "emoji": "Law", "time": "08:15" },
       { "name": "Біологія", "type": "АСИНХРОННО", "emoji": "Biology", "time": "09:10" },
-      { "name": "Фізика", "type": "СИНХРОННО О 10:15", "emoji": "Physics", "time": "10:15" },
-      { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Геометрія", "type": "ОЧНО О 12:05", "emoji": "Geometry", "time": "12:05" },
-      { "name": "Історія України", "type": "ОЧНО О 13:10", "emoji": "UaHistory", "time": "13:10" },
-      { "name": "Українська мова", "type": "ОЧНО О 14:05", "emoji": "UaLang", "time": "14:05" },
-      { "name": "Англійська мова", "type": "ОЧНО О 14:55", "emoji": "EngLang", "time": "14:55" }
+      { "name": "Фізика", "type": "АСИНХРОННО", "emoji": "Physics", "time": "10:15" },
+      { "name": "Фізична культура", "type": "СИНХРОННО ОБ 11:10", "emoji": "PE", "time": "11:10" },
+      { "name": "Геометрія", "type": "АСИНХРОННО", "emoji": "Geometry", "time": "12:05" },
+      { "name": "Історія України", "type": "СИНХРОННО О 13:10", "emoji": "UaHistory", "time": "13:10" },
+      { "name": "Українська мова", "type": "СИНХРОННО О 14:05", "emoji": "UaLang", "time": "14:05" }
     ]
   }
 ]
