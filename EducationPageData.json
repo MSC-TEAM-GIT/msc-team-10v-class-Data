@@ -9,7 +9,7 @@
       { "name": "Англійська мова", "type": "СИНХРОННО О 11:10", "emoji": "EngLang", "time": "11:10", "cabinet": "215", "teacher": "Тановицька О.А." },
       { "name": "Алгебра", "type": "СИНХРОННО О 12:05", "emoji": "Algebra", "time": "12:05", "cabinet": "215", "teacher": "Тановицька О.А." },
       { "name": "Алгебра", "type": "АСИНХРОННО", "emoji": "Algebra", "time": "13:10", "cabinet": "215", "teacher": "Тановицька О.А." },
-      { "name": "Англійська мова", "type": "НЕВИЗНАЧЕНО", "emoji": "EngLang", "time": "14:05", "cabinet": "215", "teacher": "Тановицька О.А." }
+      { "name": "Англійська мова", "type": "Інформація відсутня", "emoji": "EngLang", "time": "14:05", "cabinet": "215", "teacher": "Тановицька О.А." }
     ]
   },
   {
