@@ -18,7 +18,7 @@
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
       { "name": "Громадянська освіта", "type": "СИНХРОННО О 08:15", "emoji": "CE", "time": "08:15", "cabinet": "305", "teacher": "Чемерис В.І." },
       { "name": "Всесвітня історія", "type": "СИНХРОННО О 09:10", "emoji": "WorldHistory", "time": "09:10", "cabinet": "305", "teacher": "—" },
-      { "name": "Фізична культура", "type": "СИНХРОННО О 10:15", "emoji": "PE", "time": "10:15", "cabinet": "305", "teacher": "Чемерис В.І." },
+      { "name": "Фізична культура", "type": "АСИНХРОННО", "emoji": "PE", "time": "10:15", "cabinet": "305", "teacher": "Чемерис В.І." },
       { "name": "Українська література", "type": "СИНХРОННО О 11:10", "emoji": "UaLiterature", "time": "11:10", "cabinet": "211", "teacher": "Ворошилова Р.В." },
       { "name": "Біологія", "type": "СИНХРОННО О 12:05", "emoji": "Biology", "time": "12:05", "cabinet": "Лаб", "teacher": "—" },
       { "name": "Громадянська освіта", "type": "СИНХРОННО О 13:10", "emoji": "CE", "time": "13:10", "cabinet": "305", "teacher": "Чемерис В.І." }
