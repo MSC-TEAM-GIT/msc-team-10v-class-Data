@@ -61,7 +61,7 @@
   {
     "day": "П'ятниця | 29 травня",
     "lessons": [
-      { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
+      { "name": "Ранкова зустріч", "type": "СИНХРОННО О 10:15", "emoji": "ClassTeacher", "time": "08:00" },
       { "name": "Правознавство", "type": "АСИНХРОННО", "emoji": "Law", "time": "08:15" },
       { "name": "Біологія", "type": "АСИНХРОННО", "emoji": "Biology", "time": "09:10" },
       { "name": "Фізика", "type": "АСИНХРОННО", "emoji": "Physics", "time": "10:15" },
